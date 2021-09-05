@@ -1,4 +1,5 @@
-
+move to edgify folder
+docker build -t edgify_docker .
 sudo docker run -it edgify-docker edgify_server.py - to execute the REST server
 
 
